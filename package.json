@@ -2,7 +2,7 @@
   "name": "theme-burton",
   "displayName": "Theme Burton",
   "description": "A theme inspired by the work of Tim Burton",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "pshershov",
   "engines": {
     "vscode": "^1.33.0"

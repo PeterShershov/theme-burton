@@ -1,15 +1,23 @@
 ![blueberrybanana-icon](theme-burton-vscode-icon.png)
 
-![Screen Shot 2019-08-15 at 2 08 25](https://user-images.githubusercontent.com/16524839/63062581-2437fe80-bf02-11e9-90ef-2024f2f7992e.png)
+![snapshot](theme-burton-snapshot.png)
 
-Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling
+Theme Burton is a VSCode theme inspired by Tim Burton's movies:
+
+- Edward Scissorhands
+- Alice in Wonderland
+- Charlie and the Chocolate Factory
 
 # Installation
 
-1.  Install [Visual Studio Code](https://code.visualstudio.com/)
-2.  Launch Visual Studio Code
-3.  Choose **Extensions** from menu
-4.  Search for `blueberry banana`
-5.  Click **Install** to install it
-6.  Click **Reload** to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > **Blueberry Banana**
+Option 1:
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=pshershov.theme-burton)
+
+Option 2:
+
+1.  Launch Visual Studio Code
+2.  Choose **Extensions** from menu
+3.  Search for `Theme Burton`
+4.  Click **Install** to install it
+5.  Click **Reload** to reload the Code
+6.  From the menu bar click: Code > Preferences > Color Theme > **Theme Burton**
