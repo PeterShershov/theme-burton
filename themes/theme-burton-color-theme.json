@@ -53,14 +53,14 @@
     "input.border": "#05090f",
     "input.foreground": "#9fee42",
     "inputOption.activeBorder": "#ae66b6",
-    "list.activeSelectionBackground": "#05090f",
+    "list.activeSelectionBackground": "#ae66b618",
     "list.activeSelectionForeground": "#d7dae0",
     "list.dropBackground": "#ae66b618",
     "list.errorForeground": "#e65480",
     "list.focusBackground": "#ae66b618",
     "list.highlightForeground": "#9fee42",
     "list.hoverBackground": "#0f0f25",
-    "list.inactiveSelectionBackground": "#151529",
+    "list.inactiveSelectionBackground": "#0f0f25",
     "list.inactiveSelectionForeground": "#cdcdcd",
     "mergeEditor.change.word.background": "#151920",
     "mergeEditor.conflict.handled.minimapOverViewRuler": "#9fee42",
@@ -103,7 +103,7 @@
     //"activityBarItem.profilesBackground": "#171738",
     //"activityBarItem.profilesForeground": "#838383",
     //"activityBarItem.profilesHoverForeground": "#9fee42",
-    //"banner.background": "#05090f",
+    //"banner.background": "#ae66b618",
     //"banner.foreground": "#d7dae0",
     //"banner.iconForeground": "#3794ff",
     //"button.secondaryBackground": "#3a3d41",
@@ -223,7 +223,7 @@
     //"editorGroupHeader.noTabsBackground": "#0f0f25",
     //"editorGutter.addedBackground": "#487e02",
     //"editorGutter.background": "#0f0f25",
-    //"editorGutter.commentRangeForeground": "#151529",
+    //"editorGutter.commentRangeForeground": "#0f0f25",
     //"editorGutter.deletedBackground": "#c24038",
     //"editorGutter.foldingControlForeground": "#c5c5c5",
     //"editorGutter.modifiedBackground": "#1b81a8",
@@ -351,7 +351,7 @@
     //"inputValidation.warningBackground": "#352a05",
     //"inputValidation.warningBorder": "#b89500",
     //"interactive.activeCodeBorder": "#9fee42",
-    //"interactive.inactiveCodeBorder": "#151529",
+    //"interactive.inactiveCodeBorder": "#0f0f25",
     //"issues.closed": "#cb2431",
     //"issues.newIssueDecoration": "#ffffff48",
     //"issues.open": "#3fb950",
@@ -373,7 +373,7 @@
     //"listFilterWidget.shadow": "#0000005c",
     //"menu.background": "#0f0f25",
     //"menu.foreground": "#f0f0f0",
-    //"menu.selectionBackground": "#05090f",
+    //"menu.selectionBackground": "#ae66b618",
     //"menu.selectionForeground": "#d7dae0",
     //"menu.separatorBackground": "#606060",
     //"menubar.selectionBackground": "#5a5d5e50",
@@ -406,7 +406,7 @@
     //"minimapSlider.activeBackground": "#9fee4280",
     //"minimapSlider.background": "#4e566640",
     //"minimapSlider.hoverBackground": "#5a637540",
-    //"notebook.cellBorderColor": "#151529",
+    //"notebook.cellBorderColor": "#0f0f25",
     //"notebook.cellEditorBackground": "#151529",
     //"notebook.cellInsertionIndicator": "#007fd4",
     //"notebook.cellStatusBarItemHoverBackground": "#ffffff26",
@@ -414,9 +414,9 @@
     //"notebook.editorBackground": "#0f0f25",
     //"notebook.focusedCellBorder": "#007fd4",
     //"notebook.focusedEditorBorder": "#007fd4",
-    //"notebook.inactiveFocusedCellBorder": "#151529",
-    //"notebook.selectedCellBackground": "#151529",
-    //"notebook.selectedCellBorder": "#151529",
+    //"notebook.inactiveFocusedCellBorder": "#0f0f25",
+    //"notebook.selectedCellBackground": "#0f0f25",
+    //"notebook.selectedCellBorder": "#0f0f25",
     //"notebook.symbolHighlightBackground": "#ffffff0b",
     //"notebookScrollbarSlider.activeBackground": "#9fee42",
     //"notebookScrollbarSlider.background": "#4e566680",
@@ -459,7 +459,7 @@
     //"pullRequests.notification": "#3794ff",
     //"quickInput.background": "#0f0f25",
     //"quickInput.foreground": "#cccccc",
-    //"quickInputList.focusBackground": "#05090f",
+    //"quickInputList.focusBackground": "#ae66b618",
     //"quickInputList.focusForeground": "#d7dae0",
     //"quickInputTitle.background": "#ffffff1b",
     //"sash.hoverBorder": "#007fd4",
@@ -1530,13 +1530,13 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#9FEE42"
+        "foreground": "#BCBFB9"
       }
     },
     {
       "scope": "meta.embedded.assembly",
       "settings": {
-        "foreground": "#9FEE42"
+        "foreground": "#BCBFB9"
       }
     },
     {
