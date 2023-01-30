@@ -11,7 +11,7 @@ A nocturnal VSCode color theme inspired by Tim Burton's imaginative movie worlds
 ## Features
 
 - Visually soothing color scheme with a rich color palette
-- Playful syntax highlighting
+- High contrast syntax highlighting
 - Supports multiple programming languages
 
 ## Installation
