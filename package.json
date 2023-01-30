@@ -2,7 +2,7 @@
   "name": "theme-burton",
   "displayName": "Theme Burton",
   "description": "A theme inspired by the work of Tim Burton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "pshershov",
   "engines": {
     "vscode": "^1.33.0"
@@ -20,6 +20,15 @@
     "Charlie and the Chocolate Factory",
     "Edward Scissorhands"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PeterShershov/theme-burton"
+  },
+  "icon": "theme-burton-vscode-icon.png",
+  "galleryBanner": {
+    "color": "#151920",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {

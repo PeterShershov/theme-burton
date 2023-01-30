@@ -1578,6 +1578,58 @@
       "settings": {
         "foreground": "#ED9FE7"
       }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#BCBFB9"
+      }
+    },
+    {
+      "scope": "meta.embedded.assembly",
+      "settings": {
+        "foreground": "#BCBFB9"
+      }
+    },
+    {
+      "scope": [
+        "support.type.vendored.property-name",
+        "support.type.property-name",
+        "variable.css",
+        "variable.scss",
+        "variable.other.less",
+        "source.coffee.embedded"
+      ],
+      "settings": {
+        "foreground": "#E8CC5A"
+      }
+    },
+    {
+      "scope": "keyword.control",
+      "settings": {
+        "foreground": "#E67A8A"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.readwrite.ts",
+        "meta.object.member.ts",
+        "variable.other.readwrite.tsx",
+        "meta.object.member.tsx",
+        "variable.other.readwrite.js",
+        "meta.object.member.js",
+        "variable.other.readwrite.jsx",
+        "meta.object.member.jsx"
+      ],
+      "settings": {
+        "foreground": "#91B8FA"
+      }
+    },
+    {
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#ED9FE7"
+      }
     }
   ]
 }
