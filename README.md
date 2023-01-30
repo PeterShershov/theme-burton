@@ -20,12 +20,12 @@ Marketplace
 
 - Navigate to [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=pshershov.theme-burton)
 - Click **Install**
-- Click **Set Color Theme**.
+- Click **Set Color Theme**
 
 VSCode
 
 - Launch Visual Studio Code
 - Choose **Extensions** from menu
-- Search for `Theme Burton` and select it.
-- Click Install.
-- Click **Set Color Theme**.
+- Search for `Theme Burton` and select it
+- Click Install
+- Click **Set Color Theme**

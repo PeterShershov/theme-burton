@@ -2,7 +2,7 @@
   "name": "theme-burton",
   "displayName": "Theme Burton",
   "description": "A nocturnal VSCode color theme inspired by Tim Burton's imaginative movie worlds",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publisher": "pshershov",
   "engines": {
     "vscode": "^1.33.0"
