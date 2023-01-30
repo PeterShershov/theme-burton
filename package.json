@@ -1,0 +1,32 @@
+{
+  "name": "theme-burton",
+  "displayName": "Theme Burton",
+  "description": "A theme inspired by the work of Tim Burton",
+  "version": "1.0.0",
+  "publisher": "pshershov",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Dark Theme",
+    "Movies",
+    "Contrast",
+    "Night",
+    "Tim Burton",
+    "Alice in Wonderland",
+    "Charlie and the Chocolate Factory",
+    "Edward Scissorhands"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "theme-burton",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-burton-color-theme.json"
+      }
+    ]
+  }
+}
